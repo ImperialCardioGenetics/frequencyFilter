@@ -2,8 +2,10 @@ auto.snapshot: TRUE
 use.cache: FALSE
 print.banner.on.startup: auto
 vcs.ignore.lib: TRUE
-vcs.ignore.src: FALSE
-external.packages: 
+vcs.ignore.src: TRUE
+external.packages:
+    knitr
+    devtools
 local.repos: 
 load.external.packages.on.startup: TRUE
 ignored.packages: 
