@@ -2,6 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
-packrat/lib*/
 
-test
+*cache
+*unnamed-chunk*
+figures/Figure2.png
+figures/Figure3.png
+manuscript/manuscript.docx 
+manuscript/SupplementaryMaterial.docx 
+manuscript/*.bib
+packrat/lib*/
+packrat/src/
+*.html
+*.DS_Store
