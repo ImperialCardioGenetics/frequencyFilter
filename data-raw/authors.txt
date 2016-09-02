@@ -1,0 +1,28 @@
+Name	Affiliation	coFirst	coLast	Corresponding
+Nicola Whiffin	"National Heart & Lung Institute, Imperial College London"	T		
+Nicola Whiffin	"NIHR Royal Brompton Cardiovascular Biomedical Research Unit, Royal Brompton & Harefield Hospitals & Imperial College London"			
+Eric Minikel	"Analytic & Translational Genetics Unit, Massachusetts General Hospital, Boston MA"	T		
+Eric Minikel	"Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge MA"			
+Roddy Walsh	"National Heart & Lung Institute, Imperial College London"			
+Roddy Walsh	"NIHR Royal Brompton Cardiovascular Biomedical Research Unit, Royal Brompton & Harefield Hospitals & Imperial College London"			
+Anne O'Donnell-Luria	"Analytic & Translational Genetics Unit, Massachusetts General Hospital, Boston MA"			
+Anne O'Donnell-Luria	"Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge MA"			
+Konrad Karczewski	"Analytic & Translational Genetics Unit, Massachusetts General Hospital, Boston MA"			
+Konrad Karczewski	"Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge MA"			
+Alexander Y Ing	"Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge, MA"			
+Alexander Y Ing	"Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston MA"			
+Paul JR Barton	"National Heart & Lung Institute, Imperial College London"			
+Paul JR Barton	"NIHR Royal Brompton Cardiovascular Biomedical Research Unit, Royal Brompton & Harefield Hospitals & Imperial College London"			
+Birgit Funke	"Laboratory for Molecular Medicine, Partners HealthCare Personalized Medicine, Cambridge MA"			
+Birgit Funke	"Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston MA"			
+Stuart A Cook	"National Heart & Lung Institute, Imperial College London"		T	
+Stuart A Cook	"NIHR Royal Brompton Cardiovascular Biomedical Research Unit, Royal Brompton & Harefield Hospitals & Imperial College London"			
+Stuart A Cook	"National Heart Centre Singapore, Singapore"			
+Stuart A Cook	"Duke-National University of Singapore, Singapore"			
+Daniel MacArthur	"Analytic & Translational Genetics Unit, Massachusetts General Hospital, Boston MA"		T	
+Daniel MacArthur	"Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge MA"			
+Daniel MacArthur	"Department of Medicine, Harvard Medical School, Boston MA"			
+James S Ware	"National Heart & Lung Institute, Imperial College London"		T	T
+James S Ware	"NIHR Royal Brompton Cardiovascular Biomedical Research Unit, Royal Brompton & Harefield Hospitals & Imperial College London"			
+James S Ware	"MRC Clinical Sciences Centre, Imperial College London"			
+James S Ware	"Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge MA"			
