@@ -156,7 +156,7 @@ This publication includes independent research commissioned by the Health Innova
 
 All data required to reproduce these analyses is available at <https://github.com/ImperialCardioGenetics/frequencyFilter>. The manuscript was compiled in R, and source code for the analysis, figures and manuscript, are available at the same location. Curated variant interpretations are deposited in ClinVar *Accession & DOI to be added*. ExAC annotations are available at <exac.broadinstitute.org>. Our allele frequency calculator app is located at <https://jamesware.shinyapps.io/alleleFrequencyApp/>, and the source code available at <http://github.com/jamesware/alleleFrequencyApp>.
 
-## Online Methods
+## Methods
 
 ### Calculating maximum tolerated allele counts
 
